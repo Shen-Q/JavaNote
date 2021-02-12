@@ -11,16 +11,16 @@
 3.比较器的实现，Comparable接口和Comparator接口
 
 
-4.HashMap
+4.HashMap的原理
 
 
-5.HashSet
+5.HashSet的原理
 
 
-6.ArrayList和LinkedList
+6.Array、ArrayList和LinkedList
 
 
-7.集合类
+7.集合类Collection
 
 
 8.I/O流
@@ -36,3 +36,9 @@
 
 
 12.异常
+
+
+13.关键字
+
+
+14.设计模式
