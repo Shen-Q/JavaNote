@@ -1,6 +1,5 @@
 一个最简单的spring.xml配置，用来提醒自己Mysql8的奇葩时区设置问题。Mysql里使用show variables like '%time_zone%'; 语句显示的是System时区。
 
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
